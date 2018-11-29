@@ -1,0 +1,1 @@
+<%@ page contentType="text/html;charset=UTF-8" language="java"%><html><head><title>天南地北敲bug博客</title></head><body>	<script>		//window.location.href = 'https://www.apis.ren/index';		window.location.href = '/index';	</script>	</body></html>
